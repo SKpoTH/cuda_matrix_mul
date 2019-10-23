@@ -26,7 +26,7 @@
 // #define WA (32 * BLOCK_SIZE) // Matrix A width
 // #define HA (16 * BLOCK_SIZE) // Matrix A height
 // #define WB (24 * BLOCK_SIZE) // Matrix B width
-#define WA (32 * BLOCK_SIZE)
+#define WA (30 * BLOCK_SIZE)
 #define HA (32 * BLOCK_SIZE)
 #define WB (32 * BLOCK_SIZE)
 #define HB WA  // Matrix B height
